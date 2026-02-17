@@ -1,6 +1,8 @@
-# Hey there, I am Carlos.
+# Hey there 👋, I am Carlos.
 
-![car-ufo](https://github.com/charlesbueso/charlesbueso/blob/main/car-ufo.jpg?raw=true)
+<div align="center">
+  <img src="https://github.com/charlesbueso/charlesbueso/blob/main/car-ufo.jpg?raw=true" alt="car-ufo">
+</div>
 
 ### - 💻 Full-stack developer and data scientist working with Python, Next.js, and AI integrations (LLM chatbots, WhatsApp AI bots).
 ### - 🎬 Co-founder of Alquimia Studio in Mexico City — we build AI-driven art, custom platforms, and large-scale film productions.
